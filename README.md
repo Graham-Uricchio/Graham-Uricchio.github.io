@@ -1,2 +1,5 @@
-# Graham-Uricchio.github.io
-Resume homepage
+# resume.guricchio.me
+Resume Homepage
+  - Previous Experience
+  - Links to download resume
+  - Contact Information
