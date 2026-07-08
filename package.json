@@ -1,0 +1,10 @@
+{
+  "name": "graham-uricchio-github-io",
+  "private": true,
+  "scripts": {
+    "lint": "html-validate index.html"
+  },
+  "devDependencies": {
+    "html-validate": "^8.7.4"
+  }
+}
